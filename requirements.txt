@@ -4,3 +4,6 @@ pandas
 chromadb
 google-genai
 python-multipart
+PyJWT
+Werkzeug
+requests
